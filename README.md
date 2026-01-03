@@ -1,7 +1,10 @@
 ## About Chishti:
-I am a developer who solves **everyday problems using technology**, with experience across<br> **AI systems, automation, and full-stack development**.
-<br>Willing to learn from and collaborate with **experts in system design**.
-<br>My work spans **intelligent agents, scalable system design, and practical software solutions** built with JavaScript, Java, and Python
+I am a developer who solves **everyday problems using technology**, with experience across<br>
+**AI systems, automation, and full-stack development**.<br>
+Willing to learn from and collaborate with **experts in system design**.<br>
+My work spans **intelligent agents, scalable system design, and practical software solutions** built with JavaScript, Java, and Python.<br>
+
+*_This profile reflects my journey of continuous learning and applying technology to solve real-world challenges._*
 
 ---
 
@@ -59,7 +62,14 @@ https://github.com/chishtil1730/ABPA3-AgentBased-Productivity-Planner
 
 ---
 
+## 🎓 Education
+![B.Tech CSE (AI & ML)](https://img.shields.io/badge/B.Tech%20CSE-AI%20%26%20ML-4B5563?style=for-the-badge)
+![VIT--AP University](https://img.shields.io/badge/VIT--AP-University-2E3A8C?style=for-the-badge&logo=graduation-cap&logoColor=white)
+
+
+---
+
 ## 🌐 Connect
-[Instagram](https://instagram.com/shaik_barakh_chishti) ·
-[X](https://x.com/@barakh60) ·
-[Email](mailto:imchishti1730@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shaik_barakh_chishti)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@barakh60)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imchishti1730@gmail.com)
