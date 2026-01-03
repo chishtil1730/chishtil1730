@@ -64,7 +64,7 @@ My work spans **intelligent agents, scalable system design, and practical softwa
     <img src="https://skillicons.dev/icons?i=instagram" height="28" />
   </a>
   <a href="https://x.com/@barakh60">
-    <img src="https://skillicons.dev/icons?i=twitter" height="28" />
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="21" />
   </a>
   <a href="mailto:imchishti1730@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="28" />
