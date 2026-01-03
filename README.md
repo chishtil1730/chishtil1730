@@ -1,4 +1,4 @@
-## About Chishti:
+## About _Chishti_:
 I am a developer who solves **everyday problems using technology**, with experience across<br>
 **AI systems, automation, and full-stack development**.<br>
 Willing to learn from and collaborate with **experts in system design**.<br>
