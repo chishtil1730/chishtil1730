@@ -30,8 +30,9 @@ My work spans **intelligent agents, scalable system design, and practical softwa
 
 **Automation & DevOps**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,postgres,npm&perline=8" />
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="28" />
+  <img src="https://skillicons.dev/icons?i=docker&perline=8" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="42" />
+  <img src="https://skillicons.dev/icons?i=postgres,npm&perline=8" />
 </p>
 
 **Data & ML**
@@ -42,7 +43,7 @@ My work spans **intelligent agents, scalable system design, and practical softwa
 
 **Design**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ai,ae,blender&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ae,blender,figma,ai&perline=8" />
 </p>
 
 **IDEs**
