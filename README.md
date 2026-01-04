@@ -23,10 +23,12 @@ My work spans **intelligent agents, scalable system design, and practical softwa
 
 ### 💻 Tech Stack
 
+
 **Languages & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,java,python,c,cpp,react,nextjs,nodejs,flask,javafx&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,python,c,cpp,html,css,tailwind,ts,nextjs,nodejs,flask&perline=8" />
 </p>
+
 
 **Automation & DevOps**
 <p align="left">
