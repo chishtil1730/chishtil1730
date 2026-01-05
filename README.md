@@ -1,12 +1,11 @@
 ## About _Chishti_
 
-I am a developer who solves **everyday problems using technology**, working across  
-**AI systems, automation, and full-stack development**.  
-Willing to learn from and collaborate with **experts in system design**.  
-My work spans **intelligent agents, scalable system design, and practical software solutions**.
-When I encounter unfamiliar problems, I **_learn by building the solution itself_**.
+This profile reflects **my journey** as a developer who is **continuously learning** and  
+**applying technology to solve real-world challenges**.  
+My work spans **AI systems, automation, and full-stack development**,  
+I am always open to learning from and collaborating with **experts in system design**.
 
-*This profile reflects my journey of continuous learning and applying technology to solve real-world challenges.*
+*When I do not know something, I learn while building the solution to it.*
 
 ---
 ### 🚀 Latest Project
