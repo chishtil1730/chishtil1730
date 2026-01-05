@@ -5,6 +5,8 @@ I am a developer who solves **everyday problems using technology**, working acro
 Willing to learn from and collaborate with **experts in system design**.  
 My work spans **intelligent agents, scalable system design, and practical software solutions**.
 
+When I encounter unfamiliar problems, I **_learn by building the solution itself_**.
+
 *This profile reflects my journey of continuous learning and applying technology to solve real-world challenges.*
 
 ---
