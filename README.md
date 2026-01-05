@@ -9,7 +9,6 @@ When I encounter unfamiliar problems, I **_learn by building the solution itself
 *This profile reflects my journey of continuous learning and applying technology to solve real-world challenges.*
 
 ---
-
 ### 🚀 Latest Project
 <p align="left">
   <a href="https://github.com/chishtil1730/ABPA3-AgentBased-Productivity-Planner" style="text-decoration: none;">
