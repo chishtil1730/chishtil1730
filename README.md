@@ -25,7 +25,7 @@ I am always open to learning from and collaborating with **experts in system des
 
 **Languages & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,react,python,c,cpp,html,css,tailwind,ts,nextjs,nodejs,flask&perline=8" />
+  <img src="https://skillicons.dev/icons?i=rust,java,js,react,python,c,cpp,html,css,tailwind,ts,nextjs,nodejs,flask&perline=8" />
 </p>
 
 
@@ -50,6 +50,12 @@ I am always open to learning from and collaborating with **experts in system des
 **IDEs**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pycharm,idea,clion,webstorm&perline=8" />
+  <img 
+    src="https://resources.jetbrains.com/storage/products/company/brand/logos/RustRover_icon.svg" 
+    height="48" 
+    style="vertical-align:middle; margin-left:6px;" 
+    alt="RustRover"
+  />
 </p>
 
 ---
