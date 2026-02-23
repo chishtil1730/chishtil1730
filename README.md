@@ -48,14 +48,12 @@ I am always open to learning from and collaborating with **experts in system des
 </p>
 
 **IDEs**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pycharm,idea,clion,webstorm&perline=8" />
-  <img 
-    src="https://resources.jetbrains.com/storage/products/company/brand/logos/RustRover_icon.svg" 
-    height="48" 
-    style="vertical-align:middle; margin-left:6px;" 
-    alt="RustRover"
-  />
+<<p align="left">
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" height="48" style="vertical-align:middle; margin-right:6px;" alt="PyCharm" />
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" height="48" style="vertical-align:middle; margin-right:6px;" alt="IntelliJ IDEA" />
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg" height="48" style="vertical-align:middle; margin-right:6px;" alt="CLion" />
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" height="48" style="vertical-align:middle; margin-right:6px;" alt="WebStorm" />
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/RustRover_icon.svg" height="48" style="vertical-align:middle;" alt="RustRover" />
 </p>
 
 ---
