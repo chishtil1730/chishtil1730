@@ -10,9 +10,9 @@ I am always open to learning from and collaborating with **experts in system des
 ---
 ### 🚀 Latest Project
 <p align="left">
-  <a href="https://github.com/chishtil1730/ABPA3-AgentBased-Productivity-Planner" style="text-decoration: none;">
+  <a href="https://github.com/chishtil1730/gitlink" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/github/ffffff" height="28" style="vertical-align: middle;" />
-    <strong style="margin-left: 8px;"> ABPA3 – Agent-Based Productivity Planner </strong>
+    <strong style="margin-left: 8px;"> Gitlink CLI Tool</strong>
   </a>
   <br />
   <sub>Multi-agent system for planning, automation, and productivity workflows.</sub>
