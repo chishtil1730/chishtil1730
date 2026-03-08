@@ -15,7 +15,7 @@ I am always open to learning from and collaborating with **experts in system des
     <strong style="margin-left: 8px;"> Gitlink CLI Tool</strong>
   </a>
   <br />
-  <sub>Multi-agent system for planning, automation, and productivity workflows.</sub>
+  <sub>A fast, keyboard-driven terminal companion for GitHub — built in Rust.</sub>
 </p>
 
 ---
