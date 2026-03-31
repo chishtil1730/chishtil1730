@@ -48,7 +48,7 @@ I am always open to learning from and collaborating with **experts in system des
 </p>
 
 **IDEs**
-<<p align="left">
+<p align="left">
   <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" height="48" style="vertical-align:middle; margin-right:6px;" alt="PyCharm" />
   <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" height="48" style="vertical-align:middle; margin-right:6px;" alt="IntelliJ IDEA" />
   <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg" height="48" style="vertical-align:middle; margin-right:6px;" alt="CLion" />
